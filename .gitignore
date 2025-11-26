@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+clave.json
+.env
+.DS_Store
