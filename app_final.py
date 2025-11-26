@@ -31,7 +31,7 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "clave.json"
 cliente_vision = vision.ImageAnnotatorClient()
 
 # GEMINI CONFIG
-genai.configure(api_key="AIzaSyCUqGG5A0FRyPuFwOHq_GTVLigYl44cJN4")
+genai.configure(api_key="API_KEY")
 
 # ============================================
 # 🧰 FUNCIONES UTILITARIAS
